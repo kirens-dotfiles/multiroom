@@ -1,0 +1,22 @@
+{
+  "name": "multiroom",
+  "version": "0.1.0",
+  "description": "A cli frontend to cosminlupu/samsung-multiroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirens-dotfiles/multiroom.git"
+  },
+  "author": "Kirens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirens-dotfiles/multiroom/issues"
+  },
+  "homepage": "https://github.com/kirens-dotfiles/multiroom#readme",
+  "dependencies": {
+    "samsung-multiroom": "github:cosminlupu/samsung-multiroom#3c803a21ab94491bc1343658a64f27dd9caec3cd"
+  }
+}
